@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#canvas_2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* border: 1px solid red; */
+    top: 0;
+    left: 0;
+    background: #18181c;
+}
