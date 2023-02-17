@@ -15,9 +15,9 @@ Practicing how to create particles with HTML canvas.
 
 ## Overview
 
-<!-- ### Screenshot -->
+### Screenshot
 
-<!-- ![](./img/screenshot.png) -->
+![](./particles-video.gif)
 
 ### Links
 
